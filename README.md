@@ -1,2 +1,5 @@
 # hola-mundo
-Mi prime repositorio de prueba
+Mi primer repositorio de prueba
+
+Jose Edgar R.H.
+Fecha: 26/09
